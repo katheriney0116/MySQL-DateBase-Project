@@ -4,6 +4,9 @@ Designed and implemented a database application for travel reservation system us
 # Scenario Description
 The following is a text description of the system you are being tasked to develop. The system requirements – explicit and implicit – are included in this document, and they need to be identified and reflected in your Enhanced Entity-Relationship Diagram (EERD).
 
+[cs4400_phase1_schema_team#97.pdf](https://github.com/katheriney0116/MySQL-DateBase-Project/files/9471073/cs4400_phase1_schema_team.97.pdf)
+
+
 You are being asked to design and develop a system to handle travel reservations. This system will support a "third party" travel reservations agency. Customers will make flights reservations and hotel\AirBnB bookings for their trips. After confirming the bookings, the agency will be paid electronically by the customer.
 Attributes that are used to identify entities in our system will normally consist of fifty (50) or fewer alphanumeric characters in some regular pattern/format. This will be the default format for entity- identifying and "entity unique" attributes in our system unless otherwise noted. Dates will be represented in the "yyyy-mm-dd" date format; this will be the default format for dates in our system unless otherwise noted.
 Our system will have accounts for admin users and clients of the system.
